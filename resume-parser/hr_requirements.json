@@ -1,0 +1,5 @@
+{
+  "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "REST APIs"],
+  "experience_years": 2,
+  "projects": ["REST API development", "LLM-based application"]
+}

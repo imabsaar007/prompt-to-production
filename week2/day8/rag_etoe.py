@@ -72,7 +72,7 @@ Answer:"""
 
 
 # --- Execution Flow ---
-query = "What is the best time to go for a run?"
+query = "At what time you should poop?"
 query_embedding = model.encode(query)
 
 # 1. Retrieve the single most relevant sentence
